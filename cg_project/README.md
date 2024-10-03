@@ -1,0 +1,1 @@
+https://cgsimplified.netlify.app/
